@@ -4,6 +4,7 @@ A Node.js web application that fetches a URL, replaces every instance of "Yale" 
 
 ## Features
 
+- YuckFale!!!!!!!!!
 - Simple and intuitive user interface
 - Fetches web content from any URL
 - Replaces all instances of "Yale" with "Fale" (case-insensitive)
